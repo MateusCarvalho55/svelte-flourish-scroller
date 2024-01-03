@@ -6,7 +6,7 @@
 	<div class="container flex items-center justify-center p-3 mx-auto text-gray-50">
 		<img
 			src="https://dataharvest.eu/wp-content/themes/generatepress_dataharvest/assets/img/logo-dataharvest.svg"
-			alt="data harvest logo"
+			alt="Lusófona Porto"
 			class="h-6"
 		/>
 		<h1 class="ml-2 text-md font-bold mt-2">News</h1>
@@ -17,7 +17,7 @@
 
 <style>
 	nav {
-		background-color: #1aa8c4;
+		background-color: #00008b;
 		position: fixed;
 		top: 0;
 		left: 0;

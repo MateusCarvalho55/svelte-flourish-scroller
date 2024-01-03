@@ -2,15 +2,13 @@
 	import FlourishScroller from '../components/FlourishScroller.svelte';
 	import NewsArticle from './NewsArticle.svelte';
 	let steps = [
-		'Hello! this is a step in the scroller.',
-		'And you can add as many as you want.',
-		'You only need to make sure you have enough Flourish slides to match',
-		'Pretty cool, right?',
-		'Oh, and did I mention you can also add pure HTML in the steps?',
-		'Like this <a href="https://www.google.com">link</a>.'
+		'Serão os ministérios ocupados de forma igual entre homens e mulheres?',
+		'Os homens continuam a dominar os ministérios na União Europeia, chegam a ser mais do dobro das mulheres.',
+		'O destaque vem, principalmente, da Hungria que apenas inclui nos seus quadros governamentais uma única mulher.',
+		'As finanças e a economia apresentam uma maior dominância masculina, enquanto que a cultura e a educação são as áreas com mais destaque feminino.',	
 	];
 </script>
 
-<FlourishScroller flourish_id="1568021" {steps} />
+<FlourishScroller flourish_id="2134537" {steps} />
 
 <NewsArticle />
