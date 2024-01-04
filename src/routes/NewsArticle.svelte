@@ -1,6 +1,6 @@
 <article class="max-w-4xl mx-auto mt-40 font-serif px-4">
 	<h1 class="text-5xl text-left lg:text-6xl lg:text-center">
-		As mulheres têm pouco espaço na  maioria da União Europeia
+		As mulheres têm pouco espaço nos estados membros da União Europeia
 	</h1>
 
 	<div class="max-w-2xl mx-auto text-xl">
